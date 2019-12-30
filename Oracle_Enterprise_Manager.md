@@ -1,3 +1,4 @@
+# Instalación de Oracle Entreprise Manager
 Se va a comprobar el funcionamiento de Oracle Enterprise Manager de un servidor Oracle alojado en un Debian Jessie en un cliente remoto en Debian Buster.
 
 ### Configuración en el servidor
@@ -24,3 +25,5 @@ Para que se ejecute la aplicación, antes se tendrá que instalar algunos pluggi
 
 La primera pantalla, el login, se introduce el nombre de usuario desde el que vamos a acceder, la contraseña y el nombre del contenedor de la base de datos.
 
+![prueba1](images/aimg.png)
+![prueba2](images/bimg.png)
